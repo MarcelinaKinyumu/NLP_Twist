@@ -1,1 +1,3 @@
 # NLP_Twist
+
+This repository has notebooks and the data used in analysing the pattern of events or type of violence around east africa over time. The data used was from The Armed Conflict Location & Event Data Project (ACLED) dataset for east africa contries. ACLED collects, analysis and map reported crisis including political violence and protest events around the world.The east africa data has information from 1997 todate for the following contries; Kenya, Ethiopia, Somalia, South Sudan, Burundi, Mozambique, Uganda, Madagascar, Tanzania, Djibouti, Rwanda, Eritrea, Malawi, Mauritius, comoras, Mayotte, Reunion and Seychelles.
